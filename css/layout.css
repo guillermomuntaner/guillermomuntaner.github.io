@@ -518,7 +518,7 @@ ul#nav li.current a { color: #F06000; }
 	position: relative;
 	margin: 0 auto;
 }
-.popup-modal .description-box { padding: 12px 36px 18px 36px; }
+.popup-modal .description-box { padding: 12px 22px 20px 22px; }
 .popup-modal .description-box h4 {
    font: 15px/24px 'opensans-bold', sans-serif;
 	margin-bottom: 12px;
@@ -529,9 +529,17 @@ ul#nav li.current a { color: #F06000; }
    color: #A1A1A1;
    margin-bottom: 12px;
 }
-.popup-modal .description-box .categories {
+.popup-modal .description-box {
    font: 11px/21px 'opensans-light', sans-serif;
    color: #A1A1A1;
+   /*text-transform: uppercase;*/
+   letter-spacing: 2px;
+   display: block;
+   text-align: left;
+}
+.categories {
+   font: 13px/23px 'opensans-regular', sans-serif;
+   color: #111111;
    text-transform: uppercase;
    letter-spacing: 2px;
    display: block;
