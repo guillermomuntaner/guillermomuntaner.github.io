@@ -1,6 +1,6 @@
 guillermomuntaner.github.io
 ===========================
-Source for my personal webpage http://guillermomuntaner.com powered by github pages.
+Source for my personal webpage https://guillermomuntaner.com powered by github pages.
 
 
 Full credit to template author: 
@@ -33,6 +33,6 @@ Under the following conditions:
 
 Attribution: 
 	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
+   You must include a credit link to our website(https://www.Styleshout.com) somewhere on
    your site. We prefer the footer credit that comes with the template but you are still 
    free to move it somewhere else.
